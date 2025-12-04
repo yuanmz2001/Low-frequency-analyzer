@@ -1,0 +1,5 @@
+{
+  "name": "LowFreq Sim",
+  "description": "A professional-grade acoustic simulator for predicting low-frequency directivity in PA systems. Visualize subwoofer arrays, calculate phase interactions, and optimize bass coverage in a 2D plane.",
+  "requestFramePermissions": []
+}
